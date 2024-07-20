@@ -1,0 +1,64 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border
+}
+
+.container{
+    margin: 20px;
+}
+.login{
+      margin-left: 500px;
+     margin-bottom: 50px;
+}
+img{
+    margin-left: 370px;
+}
+h2{
+    display: block;
+    text-align: left;
+    color: black;
+    font-size: 28px;
+    padding-top: 30px;
+    margin-left: 40px;
+    padding-bottom: 20px;
+   
+}
+.box{
+    width: 430px;
+    height: 453px;
+    background-color: #faf147;
+    text-align: center;
+    border-radius: 20px;
+    margin-left: 250px;
+
+}
+.user-name{
+    text-align: center;
+    padding: 5px;
+    width: 394px;
+    height: 57px;
+    border-radius: 10px;
+    margin-top: 40px;
+    font-size: 26px;
+}
+.pass-word{
+    text-align: center;
+    padding: 5px;
+    width: 394px;
+    height: 57px;
+    border-radius: 10px;
+    margin-top: 40px;
+    font-size: 26px
+}
+button{
+    margin-left: 20px;
+    width: 252px;
+    height: 59px;
+    background-color: #7782e3;
+    border-radius: 20px;
+    color: white;
+    font-size: 20px;
+    margin-top: 30px;
+    border: none;
+}
